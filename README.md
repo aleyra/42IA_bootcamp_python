@@ -43,3 +43,15 @@ liens utiles
 * atoi : https://www.codespeedy.com/string-atoi-in-python/
 * operator : https://www.w3schools.com/python/python_operators.asp
 * function : https://www.w3schools.com/python/python_functions.asp
+
+## exercice 03
+liens utiles
+* nb d'arg : https://www.w3resource.com/python-exercises/basic/python-basic-1-exercise-91.php
+* function : https://www.w3schools.com/python/python_functions.asp
+* print str and non-str as one : https://www.w3schools.com/python/python_strings_format.asp
+* prompt : https://www.geeksforgeeks.org/taking-input-in-python/
+* equivalent à main() : https://realpython.com/if-name-main-python/
+
+## exercice 04
+liens utiles
+* 
