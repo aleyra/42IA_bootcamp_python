@@ -36,3 +36,10 @@ liens utiles
 * changer la case : https://towardsdatascience.com/how-to-quickly-change-the-case-of-strings-in-python-a1565e383371
 * reverse string : https://www.w3schools.com/python/python_howto_reverse_string.asp
 * remove a char from string : https://www.askpython.com/python/string/remove-character-from-string-python
+
+## exercice 02
+liens utiles
+* isdigit : https://www.w3schools.com/python/ref_string_isdigit.asp
+* atoi : https://www.codespeedy.com/string-atoi-in-python/
+* operator : https://www.w3schools.com/python/python_operators.asp
+* function : https://www.w3schools.com/python/python_functions.asp
