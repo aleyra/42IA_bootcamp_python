@@ -3,7 +3,7 @@ import sys
 def atoi(str):
 	res = 0
 	for i in range(len(str)):
-	    res = res * 10 + (ord(str[i]) - ord('0'))
+		res = res * 10 + (ord(str[i]) - ord('0'))
 	return res
 
 if len(sys.argv) > 2:
