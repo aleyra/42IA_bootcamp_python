@@ -32,4 +32,7 @@ Vérifier le résultat.\
 liens utiles
 * equivalent argc, argv de C en python : https://realpython.com/python-command-line-arguments/
 * utiliser sys.argv : https://www.knowledgehut.com/blog/programming/sys-argv-python-examples
-* reverse une liste : https://www.programiz.com/python-programming/methods/list/reverse
+* reverse list : https://www.programiz.com/python-programming/methods/list/reverse
+* changer la case : https://towardsdatascience.com/how-to-quickly-change-the-case-of-strings-in-python-a1565e383371
+* reverse string : https://www.w3schools.com/python/python_howto_reverse_string.asp
+* remove a char from string : https://www.askpython.com/python/string/remove-character-from-string-python
