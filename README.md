@@ -63,3 +63,5 @@ liens utiles
 * tuple to datetime : https://www.saltycrane.com/blog/2008/11/python-datetime-time-conversions/
 * add item to tuple ; https://stackoverflow.com/questions/16730339/python-add-item-to-the-tuple
 * fill avec un char speficique : https://stackoverflow.com/questions/4008546/how-to-pad-with-n-characters-in-python
+* formatage nombre : https://www.w3schools.com/python/ref_string_format.asp
+* 0 -> 00 : https://stackoverflow.com/questions/134934/display-number-with-leading-zeros
