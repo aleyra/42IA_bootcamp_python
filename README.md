@@ -61,3 +61,5 @@ liens utiles
 * tuple : https://www.w3schools.com/python/python_tuples_access.asp
 * dict (un peu comme map) : https://www.w3schools.com/python/python_dictionaries.asp
 * tuple to datetime : https://www.saltycrane.com/blog/2008/11/python-datetime-time-conversions/
+* add item to tuple ; https://stackoverflow.com/questions/16730339/python-add-item-to-the-tuple
+* fill avec un char speficique : https://stackoverflow.com/questions/4008546/how-to-pad-with-n-characters-in-python
