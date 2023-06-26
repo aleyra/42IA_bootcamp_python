@@ -68,41 +68,42 @@ def	add_recipe():
 			'prep_time' : time
 		}}
 	)
-	
-print("""Welcome to the Python Cookbook !
-List of available option:
-	1: Add a recipe
-	2: Delete a recipe
-	3: Print a recipe
-	4: Print the list of recipes
-	5: Quit""")
 
-option = "0"
-while 1:
-	option = input("\nPlease select an option:\n>> ")
-	if option == "5":
-		print("\nCookbook closed. Goodbye !")
-		exit()
-	if option == "1":
-		add_recipe()
-	else:
-		if option == "2":
-			recipe = input("\nEnter a recipe name you wish to delete\n>> ")
-			delete_recipe(recipe)
+if __name__ == "__main__":
+	print("""Welcome to the Python Cookbook !
+	List of available option:
+		1: Add a recipe
+		2: Delete a recipe
+		3: Print a recipe
+		4: Print the list of recipes
+		5: Quit""")
+
+	option = "0"
+	while 1:
+		option = input("\nPlease select an option:\n>> ")
+		if option == "5":
+			print("\nCookbook closed. Goodbye !")
+			exit()
+		if option == "1":
+			add_recipe()
 		else:
-			if option == "3":
-				recipe = input("\nEnter a name of recipe you wish to print\n>> ")
-				print_recipe_details(recipe)
+			if option == "2":
+				recipe = input("\nEnter a recipe name you wish to delete\n>> ")
+				delete_recipe(recipe)
 			else:
-				if option == "4":
-					print("\nList of recipe available:")
-					print_recipe_names()
+				if option == "3":
+					recipe = input("\nEnter a name of recipe you wish to print\n>> ")
+					print_recipe_details(recipe)
 				else:
-					print("""
-Sorry, this option does not exist.
-List of available option:
-	1: Add a recipe
-	2: Delete a recipe
-	3: Print a recipe
-	4: Print the list of recipes
-	5: Quit""")
+					if option == "4":
+						print("\nList of recipe available:")
+						print_recipe_names()
+					else:
+						print("""
+	Sorry, this option does not exist.
+	List of available option:
+		1: Add a recipe
+		2: Delete a recipe
+		3: Print a recipe
+		4: Print the list of recipes
+		5: Quit""")
