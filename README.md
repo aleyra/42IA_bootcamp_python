@@ -65,3 +65,15 @@ liens utiles
 * fill avec un char speficique : https://stackoverflow.com/questions/4008546/how-to-pad-with-n-characters-in-python
 * formatage nombre : https://www.w3schools.com/python/ref_string_format.asp
 * 0 -> 00 : https://stackoverflow.com/questions/134934/display-number-with-leading-zeros
+
+## exercice 06
+liens utiles
+### Part 1
+* dict in dict : https://www.w3schools.com/python/python_dictionaries_nested.asp
+### Part 2
+* methodes de dict : https://www.w3schools.com/python/python_dictionaries_methods.asp
+* https://stackoverflow.com/questions/15785719/how-to-print-a-dictionary-line-by-line-in-python
+* input -> list : https://www.geeksforgeeks.org/python-get-a-list-as-input-from-user/
+* str non vide : https://stackoverflow.com/questions/9573244/how-to-check-if-the-string-is-empty
+* parce qu'à la fin de la list j'avais '' : https://www.geeksforgeeks.org/python-list-pop-method/
+* 
