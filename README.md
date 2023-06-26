@@ -54,4 +54,10 @@ liens utiles
 
 ## exercice 04
 liens utiles
-* 
+* operator : https://www.w3schools.com/python/python_operators.asp
+
+## exercice 05
+liens utiles
+* tuple : https://www.w3schools.com/python/python_tuples_access.asp
+* dict (un peu comme map) : https://www.w3schools.com/python/python_dictionaries.asp
+* tuple to datetime : https://www.saltycrane.com/blog/2008/11/python-datetime-time-conversions/
