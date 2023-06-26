@@ -76,4 +76,7 @@ liens utiles
 * input -> list : https://www.geeksforgeeks.org/python-get-a-list-as-input-from-user/
 * str non vide : https://stackoverflow.com/questions/9573244/how-to-check-if-the-string-is-empty
 * parce qu'à la fin de la list j'avais '' : https://www.geeksforgeeks.org/python-list-pop-method/
-* 
+
+## exercice 07
+liens utiles
+* split : https://www.w3schools.com/python/ref_string_rsplit.asp
