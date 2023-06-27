@@ -91,3 +91,11 @@ liens utiles
 ## exercice 09
 liens utiles
 * randint : https://www.w3schools.com/python/ref_random_randint.asp
+
+## exercice 10
+J'y comprends rien ^^"
+
+# Module01
+## exercice 00
+liens utiles
+* class : https://www.w3schools.com/python/python_classes.asp
