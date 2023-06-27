@@ -87,3 +87,7 @@ liens utiles
 lien donné par le sujet : https://morsecode.world/international/morse2.html
 liens utiles
 * switch en python : https://www.commentcoder.com/python-switch-case/
+
+## exercice 09
+liens utiles
+* randint : https://www.w3schools.com/python/ref_random_randint.asp
