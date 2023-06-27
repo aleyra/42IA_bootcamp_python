@@ -80,3 +80,5 @@ liens utiles
 ## exercice 07
 liens utiles
 * split : https://www.w3schools.com/python/ref_string_rsplit.asp
+* strip = trim : https://www.w3schools.com/python/ref_string_strip.asp
+* parcourir une liste : https://www.commentcoder.com/python-parcourir-liste/
