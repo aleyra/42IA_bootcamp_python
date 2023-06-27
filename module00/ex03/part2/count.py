@@ -1,10 +1,11 @@
 import sys
 
 def ispuncMark(c):
-	if c == ',' or c == '?' or c == ';' or c == '.' or c == ':' or c == '!':
-		return True
-	else:
-		return False 
+	punctuations = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~"
+	for i in range(len(punctuations)):
+		if c == punctuations[i]:
+			return True
+	return False
 
 def text_analyzer(*str):
 	upperChar = 0

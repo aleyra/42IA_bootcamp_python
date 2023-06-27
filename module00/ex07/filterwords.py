@@ -6,12 +6,6 @@ def atoi(str):
 		res = res * 10 + (ord(str[i]) - ord('0'))
 	return res
 
-def haspuncMark(str):
-	for i in [0, len(str) - 1]:
-		if str[i] == ',' or str[i] == '?' or str[i] == ';' or str[i] == '.' or str[i] == ':' or str[i] == '!':
-			return True
-	return False 
-
 if __name__ == "__main__":
 	if len(sys.argv) != 3:
 		print("ERROR")
@@ -22,21 +16,16 @@ if __name__ == "__main__":
 	S = sys.argv[1]
 	N = atoi(sys.argv[2])
 
-	list = S.split()
+	lst = S.split()
 
-	for x in list:
-		if haspuncMark(x):
-			list.remove(x)
-
-	print(list)
-	print(len(list))
-
-	# for x in list:
-	# 	print(len(x))
-	# 	if len(x) < N:
-	# 		list.remove(x)
+	punctuations = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~"
+	i = 0
+	while i < len(lst):
+		lst[i] = lst[i].strip(punctuations)
+		if len(lst[i]) <= N:
+			lst.pop(i)
+		else:
+			i += 1
 	
-	print(list)
-	to_print = """S = {}
-N = {}"""
-	print(to_print.format(S, N))
+	print(lst)
+	
