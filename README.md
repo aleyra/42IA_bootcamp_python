@@ -82,3 +82,8 @@ liens utiles
 * split : https://www.w3schools.com/python/ref_string_rsplit.asp
 * strip = trim : https://www.w3schools.com/python/ref_string_strip.asp
 * parcourir une liste : https://www.commentcoder.com/python-parcourir-liste/
+
+## exercice 08
+lien donné par le sujet : https://morsecode.world/international/morse2.html
+liens utiles
+* switch en python : https://www.commentcoder.com/python-switch-case/
