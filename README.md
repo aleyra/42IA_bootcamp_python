@@ -99,3 +99,6 @@ J'y comprends rien ^^"
 ## exercice 00
 liens utiles
 * class : https://www.w3schools.com/python/python_classes.asp
+* isinstance pour check si c'est le bon type : https://pynative.com/python-isinstance-explained-with-examples/
+* assert -> try throw error : https://www.w3schools.com/python/ref_keyword_assert.asp
+* methodes du dict : https://www.w3schools.com/python/python_ref_dictionary.asp
