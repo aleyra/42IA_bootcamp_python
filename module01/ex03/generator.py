@@ -1,3 +1,4 @@
+import random
 def generator(text, sep=" ", option=None):
 	'''Splits the text according to sep value and yield the substrings.
 option precise if a action is performed to the substrings before it is yielded.
@@ -8,19 +9,23 @@ option precise if a action is performed to the substrings before it is yielded.
 	
 	split = text.split(sep)
 
-	# match option:
-	# 	case "shuffle":
-	# 		print("shuffles the list of words")
-	# 	case "unique":
-	# 		print ("returns a list where each word appears only once")
-	# 	case "ordered":
-	# 		print ("alphabetically sorts the words")
+	if option == "shuffle":
+		split = random.sample(split, len(split))
+	elif option == "unique":
+		# split = list(set(split)) #bizarre ça met dans un ordre aleatoire
+		res = []
+		for i in split:
+			if i not in res:
+				res.append(i)
+		split = res
+	elif option == "ordered":
+		split.sort()
 
 	for i in range(len(split)):
-		yield i
+		yield split[i]
 
 if __name__ == "__main__":
-	text = "1.1"
-	sep = "."
-	for word in generator(text, sep):
+	txt = "Le Lorem Ipsum est simplement du faux texte."
+	s = " "
+	for word in generator(txt, sep=s, option="ordered"):
 		print(word)
