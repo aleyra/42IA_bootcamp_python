@@ -102,3 +102,9 @@ liens utiles
 * isinstance pour check si c'est le bon type : https://pynative.com/python-isinstance-explained-with-examples/
 * assert -> try throw error : https://www.w3schools.com/python/ref_keyword_assert.asp
 * methodes du dict : https://www.w3schools.com/python/python_ref_dictionary.asp
+
+## exercice 02
+liens utiles
+* operateurs class : https://zestedesavoir.com/tutoriels/1253/la-programmation-orientee-objet-en-python/4-operators/
+* type of var : https://www.w3schools.com/python/python_datatypes.asp
+* update tuple : https://www.w3schools.com/python/python_tuples_update.asp
