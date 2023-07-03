@@ -108,3 +108,7 @@ liens utiles
 * operateurs class : https://zestedesavoir.com/tutoriels/1253/la-programmation-orientee-objet-en-python/4-operators/
 * type of var : https://www.w3schools.com/python/python_datatypes.asp
 * update tuple : https://www.w3schools.com/python/python_tuples_update.asp
+
+## exercice 03
+liens utiles
+* yield : https://www.journaldunet.fr/web-tech/developpement/1202863-a-quoi-sert-le-mot-cle-yield-en-python/
