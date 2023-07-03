@@ -115,3 +115,8 @@ liens utiles
 * random.sample -> ordre aleatoire sans remise : https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees/6252451-manipulez-des-nombres-aleatoires-avec-le-module-random
 * suppr les doublons : https://waytolearnx.com/2019/04/supprimer-les-doublons-dune-liste-en-python.html
 * trier une liste : https://geekflare.com/fr/python-sort-list/
+
+## exercice 04
+liens utiles
+* zip() : https://www.w3schools.com/python/ref_func_zip.asp
+* enumerate() : https://www.w3schools.com/python/ref_func_enumerate.asp
