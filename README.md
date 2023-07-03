@@ -112,3 +112,6 @@ liens utiles
 ## exercice 03
 liens utiles
 * yield : https://www.journaldunet.fr/web-tech/developpement/1202863-a-quoi-sert-le-mot-cle-yield-en-python/
+* random.sample -> ordre aleatoire sans remise : https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees/6252451-manipulez-des-nombres-aleatoires-avec-le-module-random
+* suppr les doublons : https://waytolearnx.com/2019/04/supprimer-les-doublons-dune-liste-en-python.html
+* trier une liste : https://geekflare.com/fr/python-sort-list/
