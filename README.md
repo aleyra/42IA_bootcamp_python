@@ -125,3 +125,4 @@ liens utiles
 liens utiles
 * nb d'attributs : https://pythonforge.com/acceder-aux-attributs-dune-classe/
 * substr : https://fr.wikibooks.org/wiki/Programmation_Python/Chaines_de_caract%C3%A8res
+* dir() : https://www.programiz.com/python-programming/methods/built-in/dir
