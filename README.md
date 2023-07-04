@@ -126,3 +126,10 @@ liens utiles
 * nb d'attributs : https://pythonforge.com/acceder-aux-attributs-dune-classe/
 * substr : https://fr.wikibooks.org/wiki/Programmation_Python/Chaines_de_caract%C3%A8res
 * dir() : https://www.programiz.com/python-programming/methods/built-in/dir
+
+# Module02
+## exercice 00
+liens utiles
+* map() : https://www.digitalocean.com/community/tutorials/how-to-use-the-python-map-function
+* filter() : https://www.w3schools.com/python/ref_func_filter.asp
+* reduce() : https://www.geeksforgeeks.org/reduce-in-python/
