@@ -120,3 +120,8 @@ liens utiles
 liens utiles
 * zip() : https://www.w3schools.com/python/ref_func_zip.asp
 * enumerate() : https://www.w3schools.com/python/ref_func_enumerate.asp
+
+## exercice 05
+liens utiles
+* nb d'attributs : https://pythonforge.com/acceder-aux-attributs-dune-classe/
+* substr : https://fr.wikibooks.org/wiki/Programmation_Python/Chaines_de_caract%C3%A8res
