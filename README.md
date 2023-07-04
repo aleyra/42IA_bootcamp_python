@@ -143,3 +143,9 @@ liens utiles
 ## exercice 02
 liens utiles
 * @log : https://medium.com/swlh/add-log-decorators-to-your-python-project-84094f832181
+
+## exercice 03
+liens utiles
+* CSV : https://fr.wikipedia.org/wiki/Comma-separated_values
+* python csv reader : https://docs.python.org/3/library/csv.html
+* context manager : https://realpython.com/python-with-statement/
