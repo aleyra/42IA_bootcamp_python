@@ -133,3 +133,9 @@ liens utiles
 * map() : https://www.digitalocean.com/community/tutorials/how-to-use-the-python-map-function
 * filter() : https://www.w3schools.com/python/ref_func_filter.asp
 * reduce() : https://www.geeksforgeeks.org/reduce-in-python/
+
+## exercice 01
+liens utiles
+* args et kwargs : https://deusyss.developpez.com/tutoriels/Python/args_kwargs/
+* update dict : https://www.w3schools.com/python/ref_dictionary_update.asp
+* None : https://www.w3schools.com/python/ref_keyword_none.asp
