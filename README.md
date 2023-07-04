@@ -139,3 +139,7 @@ liens utiles
 * args et kwargs : https://deusyss.developpez.com/tutoriels/Python/args_kwargs/
 * update dict : https://www.w3schools.com/python/ref_dictionary_update.asp
 * None : https://www.w3schools.com/python/ref_keyword_none.asp
+
+## exercice 02
+liens utiles
+* @log : https://medium.com/swlh/add-log-decorators-to-your-python-project-84094f832181
