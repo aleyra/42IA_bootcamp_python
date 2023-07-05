@@ -149,3 +149,9 @@ liens utiles
 * CSV : https://fr.wikipedia.org/wiki/Comma-separated_values
 * python csv reader : https://docs.python.org/3/library/csv.html
 * context manager : https://realpython.com/python-with-statement/
+
+# Module03
+## exercice 00
+liens utiles
+* NumPy : https://www.w3schools.com/python/numpy/default.asp
+* np.fromiter : https://numpy.org/doc/stable/reference/generated/numpy.fromiter.html
