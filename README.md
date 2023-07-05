@@ -155,3 +155,9 @@ liens utiles
 liens utiles
 * NumPy : https://www.w3schools.com/python/numpy/default.asp
 * np.fromiter : https://numpy.org/doc/stable/reference/generated/numpy.fromiter.html
+
+# Module04
+## exercice 00
+liens utiles
+* pandas : https://www.w3schools.com/python/pandas/default.asp
+* nb of row and of column : https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
