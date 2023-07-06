@@ -5,7 +5,7 @@ def youngest_fellah(df, y):
 	res = dict()
 	year = df.groupby(df.Year)
 	dfy = year.get_group(y)
-	sex = df.groupby(dfy.Sex)
+	sex = dfy.groupby(dfy.Sex)
 	dff = sex.get_group('F')
 	age = list(filter(lambda f:'Age' in f, dff.columns))
 	min = dff[age].min()
