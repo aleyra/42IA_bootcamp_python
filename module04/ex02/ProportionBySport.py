@@ -9,7 +9,7 @@ def proportion_by_sport(df, yr, sport, gender):
 	tmp = tdf.groupby(tdf.Sex)#groupe par genre
 	tdf = tmp.get_group(gender)#recup que le genre gender
 	tdf2 = pd.unique(tdf[['Name']].values.ravel())#vire les noms en double
-	# print(tdf2)
+	print(tdf2)
 	res = tdf2.shape[0]
 	tmp = tdf.groupby(tdf.Sport)#groupe par sport
 	tdf = tmp.get_group(sport)#recup que le sport sport
