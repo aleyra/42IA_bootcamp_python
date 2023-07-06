@@ -170,3 +170,8 @@ liens utiles
 
 ## exercice 02
 liens utiles
+* pd.unique : https://sparkbyexamples.com/pandas/pandas-find-unique-values-from-columns/?expand_article=1
+
+## exercice 03
+liens utiles
+* 
