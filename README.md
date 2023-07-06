@@ -161,3 +161,12 @@ liens utiles
 liens utiles
 * pandas : https://www.w3schools.com/python/pandas/default.asp
 * nb of row and of column : https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
+* 1ers rows : https://stackoverflow.com/questions/60357116/command-to-print-top-10-rows-of-python-pandas-dataframe-without-index
+
+## exercice 01
+liens utiles
+* subdf par valeur d'1 col : https://sparkbyexamples.com/pandas/how-to-split-pandas-dataframe/?expand_article=1
+* get min of a col : https://stackoverflow.com/questions/25479607/pandas-min-of-selected-row-and-columns
+
+## exercice 02
+liens utiles
