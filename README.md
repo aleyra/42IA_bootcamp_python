@@ -172,6 +172,12 @@ liens utiles
 liens utiles
 * pd.unique : https://sparkbyexamples.com/pandas/pandas-find-unique-values-from-columns/?expand_article=1
 
-## exercice 03
+## exercice 04
 liens utiles
-* 
+* np arr to list : https://numpy.org/doc/stable/reference/generated/numpy.ndarray.tolist.html
+
+## exercice 05
+liens utiles
+* suppr col : https://sparkbyexamples.com/pandas/pandas-drop-columns-examples/?expand_article=1
+* suppr doublons : https://fr.moonbooks.org/Articles/Comment-supprimer-les-doublons-dans-une-dataframe-avec-pandas-en-python-/
+
